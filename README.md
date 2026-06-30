@@ -1,2 +1,1 @@
-# AI-garbage-objection-detection
-anvinimkar05/-AI-garbage-objection-detection-
+AI Garbage Detection is a smart system that uses Artificial Intelligence and Computer Vision to identify garbage from images or live camera feeds. It can detect different types of waste such as plastic bottles, paper, glass, metal, and organic waste.
